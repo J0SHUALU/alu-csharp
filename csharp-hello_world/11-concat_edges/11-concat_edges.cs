@@ -8,3 +8,4 @@ class Program
 		Console.WriteLine(str.Substring(49, 15) + str.Substring(80, 11) + str.Substring(118, 4) + str.Substring(0, 2));
 	}
 }
+
