@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4sfusRLiX8Y=",
+  "success": true,
+  "projectFilePath": "/Users/kidflamez/AR_VR/alu-csharp/csharp-ifelse_loops_methods/0-positive_or_negative/0-positive_or_negative.csproj",
+  "expectedPackageFiles": [
+    "/Users/kidflamez/.nuget/packages/microsoft.netcore.app.ref/8.0.22/microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "/Users/kidflamez/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "/Users/kidflamez/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.22/microsoft.netcore.app.host.osx-arm64.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
