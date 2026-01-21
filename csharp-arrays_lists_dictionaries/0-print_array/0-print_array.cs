@@ -26,28 +26,3 @@ class Array
         return newArray;
     }
 }
-
-class Program
-{
-    static void Main(string[] args)
-    {
-        int[]? newArray;
-
-        newArray = Array.CreatePrint(10);
-        if (newArray != null)
-            Console.WriteLine("Array Length: " + newArray.Length);
-        Console.WriteLine("----------------");
-        
-        newArray = Array.CreatePrint(16);
-        if (newArray != null)
-            Console.WriteLine("Array Length: " + newArray.Length);
-        Console.WriteLine("----------------");
-        
-        newArray = Array.CreatePrint(0);
-        if (newArray != null)
-            Console.WriteLine("Array Length: " + newArray.Length);
-        Console.WriteLine("----------------");
-        
-        newArray = Array.CreatePrint(-10);
-    }
-}
