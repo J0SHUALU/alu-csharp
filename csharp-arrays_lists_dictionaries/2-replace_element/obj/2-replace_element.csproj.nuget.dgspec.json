@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/2-replace_element.cspproj": {}
+    "/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/2-replace_element.csproj": {}
   },
   "projects": {
-    "/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/2-replace_element.cspproj": {
+    "/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/2-replace_element.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/2-replace_element.cspproj",
+        "projectUniqueName": "/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/2-replace_element.csproj",
         "projectName": "2-replace_element",
-        "projectPath": "/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/2-replace_element.cspproj",
+        "projectPath": "/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/2-replace_element.csproj",
         "packagesPath": "/Users/kidflamez/.nuget/packages/",
         "outputPath": "/Users/kidflamez/AR_VR/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/",
         "projectStyle": "PackageReference",
@@ -27,6 +27,11 @@
             "targetAlias": "net7.0",
             "projectReferences": {}
           }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
         },
         "restoreAuditProperties": {
           "enableAudit": "true",
