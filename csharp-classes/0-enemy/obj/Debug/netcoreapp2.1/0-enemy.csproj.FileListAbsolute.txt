@@ -1,5 +1,7 @@
 /Users/kidflamez/AR_VR/alu-csharp/csharp-classes/0-enemy/bin/Debug/netcoreapp2.1/0-enemy.xml
 /Users/kidflamez/AR_VR/alu-csharp/csharp-classes/0-enemy/bin/Debug/netcoreapp2.1/0-enemy.deps.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-classes/0-enemy/bin/Debug/netcoreapp2.1/0-enemy.runtimeconfig.json
+/Users/kidflamez/AR_VR/alu-csharp/csharp-classes/0-enemy/bin/Debug/netcoreapp2.1/0-enemy.runtimeconfig.dev.json
 /Users/kidflamez/AR_VR/alu-csharp/csharp-classes/0-enemy/bin/Debug/netcoreapp2.1/0-enemy.dll
 /Users/kidflamez/AR_VR/alu-csharp/csharp-classes/0-enemy/bin/Debug/netcoreapp2.1/0-enemy.pdb
 /Users/kidflamez/AR_VR/alu-csharp/csharp-classes/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.csproj.AssemblyReference.cache
@@ -10,3 +12,4 @@
 /Users/kidflamez/AR_VR/alu-csharp/csharp-classes/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.sourcelink.json
 /Users/kidflamez/AR_VR/alu-csharp/csharp-classes/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.dll
 /Users/kidflamez/AR_VR/alu-csharp/csharp-classes/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.pdb
+/Users/kidflamez/AR_VR/alu-csharp/csharp-classes/0-enemy/obj/Debug/netcoreapp2.1/0-enemy.genruntimeconfig.cache

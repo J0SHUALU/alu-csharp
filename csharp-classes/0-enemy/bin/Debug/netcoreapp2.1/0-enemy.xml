@@ -6,7 +6,7 @@
     <members>
         <member name="T:Enemies.Zombie">
             <summary>
-            Represents a Zombie enemy.
+            Defines a zombie.
             </summary>
         </member>
     </members>

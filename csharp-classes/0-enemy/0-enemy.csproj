@@ -1,10 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Library</OutputType>
+    <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>Enemies</RootNamespace>
-    <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\$(AssemblyName).xml</DocumentationFile>
+    <RootNamespace>_0_enemy</RootNamespace>
+    <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\0-enemy.xml</DocumentationFile>
   </PropertyGroup>
 
 </Project>
