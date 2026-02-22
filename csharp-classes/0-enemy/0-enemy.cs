@@ -14,8 +14,8 @@ namespace Enemies
         static void Main(string[] args)
         {
             Zombie newObject = new Zombie();
-            Console.WriteLine("newObject is of type {0}", newObject.GetType());
-            Console.WriteLine("String representation: {0}", newObject.ToString());
+            Console.WriteLine(newObject.GetType());
+            Console.WriteLine(newObject.ToString());
         }
     }
 }
